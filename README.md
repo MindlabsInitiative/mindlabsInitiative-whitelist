@@ -1,1 +1,1 @@
-# mindlabsInitiative-whitelist
+# mindverse-waitlist
