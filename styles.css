@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: radial-gradient(ellipse at center, #0a0f25 0%, #010314 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.logo-container {
+  padding: 20px;
+  border-radius: 16px;
+  background-color: #0a122a;
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.3);
+  border: 1px solid #1c2944;
+}
+
+.logo-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 0 6px #00e0ff);
+}
